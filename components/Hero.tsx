@@ -29,9 +29,9 @@ export default function Hero() {
           Welcome to Prestige Realty
         </p>
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white leading-tight mb-6">
-          Find Your Dream
+          Find Your Disney
           <br />
-          <span className="text-[#c9a84c]">Home Today</span>
+          <span className="text-[#c9a84c]">Dream House</span>
         </h1>
         <p className="text-white/80 text-lg mb-10 max-w-xl mx-auto">
           Explore thousands of properties curated by our expert agents. Whether
